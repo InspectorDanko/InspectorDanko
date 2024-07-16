@@ -33,3 +33,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=2BA4DF)](https://t.me/danko_bako)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=FE640B)](https://www.instagram.com/danko.185?igsh=MXJxMzd3Mm5ianozNw%3D%3D&utm_source=qr)
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK&logoColor=0F7FFE)](https://vk.com/danko.bako)
+
+### My Stats
+[![InspectorDanko's GitHub stats](https://github-readme-stats.vercel.app/api?username=InspectorDanko&show_icons=true&bg_color=000000&rank_icon=github&icon_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF&hide_border=true)](https://github.com/InspectorDanko/github-readme-stats)
