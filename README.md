@@ -21,3 +21,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=2684FF)
 
 ### Follow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=2BA4DF)](https://t.me/danko_bako)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=FE640B)](https://www.instagram.com/danko.185?igsh=MXJxMzd3Mm5ianozNw%3D%3D&utm_source=qr)
+[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK&logoColor=0F7FFE)](https://vk.com/danko.bako)
