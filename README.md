@@ -20,6 +20,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E5532D)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=2684FF)
 
+### Testing Documentation
+
+- [Test-Suites and Test-Cases](https://github.com/InspectorDanko/Test-Cases)
+- [Checklists](https://github.com/InspectorDanko/Checklists)
+- [Bug Reports](https://github.com/InspectorDanko/Bug-Reports)
+- [SQL Queries](https://github.com/InspectorDanko/SQL-Queries)
+- [Postman Collections](https://github.com/InspectorDanko/Postman-Collections)
+
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=2BA4DF)](https://t.me/danko_bako)
