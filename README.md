@@ -1,6 +1,6 @@
 ![Header](https://github.com/InspectorDanko/InspectorDanko/blob/main/assets/Danila%20Skorik.jpg)
 
-## I'm an aspiring QA Engineer
+## Hi, I'm an aspiring QA Engineer
 
 ### Languages and Tools
 ![GitHub](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=222222)
