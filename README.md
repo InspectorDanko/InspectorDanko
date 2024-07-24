@@ -67,5 +67,4 @@ contribute to the improvement of software quality.
 ### My Stats
 [![InspectorDanko's GitHub stats](https://github-readme-stats.vercel.app/api?username=InspectorDanko&show_icons=true&bg_color=000000&rank_icon=github&icon_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF&hide_border=true)](https://github.com/InspectorDanko/github-readme-stats)
 ***
-![snake gif](https://github.com/InspectorDanko/InspectorDanko/blob/output/github-contribution-grid-snake.svg)
 
