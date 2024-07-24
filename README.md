@@ -2,6 +2,8 @@
 
 ## Hi, I'm an aspiring QA Engineer
 
+### [My CV](https://disk.yandex.ru/i/Wir285cDL3EkEQ) 
+
 ### Languages and Tools
 ![GitHub](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=222222)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=FF3F1E)
