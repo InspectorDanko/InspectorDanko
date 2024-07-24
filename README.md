@@ -2,6 +2,13 @@
 
 ## Hi, I'm an aspiring QA Engineer
 
+### About me
+I'm a QA-Engineer with non-profit testing experience.
+My goal is to become a leading QA-Engineer,
+by continuously improving my professional skills and knowledge.
+I plan to participate in the development of innovative products and to
+contribute to the improvement of software quality.
+
 ### [My CV](https://disk.yandex.ru/i/Wir285cDL3EkEQ) 
 
 ### Languages and Tools
