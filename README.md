@@ -1,4 +1,4 @@
-![Header](https://i.pinimg.com/originals/a3/f3/ab/a3f3abe546f87d7bceb19ff1f3eea602.gif)
+![Header](https://github.com/InspectorDanko/InspectorDanko/blob/main/assets/Banner.gif?raw=true)
 
 ## Hi, I'm an aspiring QA Engineer
 
